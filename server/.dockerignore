@@ -1,0 +1,26 @@
+# Node modules
+node_modules
+npm-debug.log
+
+# Environment files
+.env
+.env.local
+.env.*
+
+# Development files
+.git
+.gitignore
+README.md
+
+# Log files
+*.log
+
+# Build directories
+/dist
+/build
+
+# IDE specific files
+.idea
+.vscode
+*.swp
+*.swo
